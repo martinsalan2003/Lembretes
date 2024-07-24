@@ -5,7 +5,7 @@
 
  >Tarefas
 
-esta com dificuldade para realizar suas tarefas diasrias, resolvi seu problemas. acesse o link a baixo e anote seus a fazeres do dia!
+Esta com dificuldade para realizar suas tarefas diárias, Resolva seus problemas agora. acesse o link a baixo e anote seus a fazeres do dia! 
  
 
 [Clique aqui para ascessar]([https://martinsalan2003.github.io/Burguers-Alan/](https://martinsalan2003.github.io/Lembretes/))
