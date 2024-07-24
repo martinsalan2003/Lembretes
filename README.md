@@ -15,6 +15,7 @@ esta com dificuldade para realizar suas tarefas diasrias, resolvi seu problemas.
 
 - HTML
 - CSS
+- JAVASCRIPT
 - GIT E GITHUB
 
 ## Contato
